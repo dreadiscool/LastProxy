@@ -1,0 +1,6 @@
+LastProxy is the most effecient and performant Minecraft reverse proxy to hit the market. And by market, we mean it's free!
+
+To compile, simply run
+./compile.sh
+
+When ran for the first time, LastProxy will auto-generate the default confif - proxy.conf
