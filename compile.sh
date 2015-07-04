@@ -1,0 +1,1 @@
+gcc src/*.c -g -lpthread -pthread -O3 -o last-proxy
